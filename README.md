@@ -1,2 +1,2 @@
 # flask_demo
-lear python flask framework
+Learn python: use flask framework to create API
